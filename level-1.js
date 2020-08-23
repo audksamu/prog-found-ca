@@ -4,7 +4,7 @@ var carBrand = "Tesla";
 // question 2
 var person = {
     name: "Thea",
-    age: "11"
+    age: 11
 };
 
 // question 3
@@ -50,7 +50,7 @@ function whatIDontLike (inputText) {
 whatIDontLike("risk");
 
 // question 9
-function subStract (minuend, subtrahend) {
+function subTract (minuend, subtrahend) {
     console.log (minuend - subtrahend);
 }
 
